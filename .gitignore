@@ -1,0 +1,9 @@
+# .gitignore para projetos .NET e Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+*.db
+*.log
